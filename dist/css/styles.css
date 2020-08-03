@@ -10169,6 +10169,6 @@ section.resume-section1 .resume-section-content1 {
 
 .grid-container {
   display: grid;
-  grid-template-columns: auto auto auto auto;
+  grid-template-columns: 20fr 20fr 20fr 20fr;
   padding-top: 0rem;
 }
